@@ -40,7 +40,8 @@ When you save the configuration, Mercado Pago will generate a **Webhook Secret K
 
 ### Wfolio settings
 
-* Go to **Wfolio settings → Store settings** and select Mercado Pago.
+* Go to **Wfolio settings → Store settings** and select the currency.
+* Next, select Mercado Pago from the list below.
 
 Paste the **Access Token** from Production credentials and **Webhook Secret Key** from Webhooks configuration.
 
