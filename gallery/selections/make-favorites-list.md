@@ -64,6 +64,12 @@ Additionally, you can request their **email** and **phone number** if needed. To
 
 
 
+When the selection is completed, new photos cannot be added. You can reopen the selection on the control panel.
+
+[Access control and other actions with selections](manage.md#access-control)
+
+<figure><img src="../../.gitbook/assets/fav finished en.png" alt=""><figcaption><p>A message your clients see if the selection has been completed</p></figcaption></figure>
+
 ### Favorites lists in the control panel
 
 View all created lists in the **Favorites** tab within the project.
