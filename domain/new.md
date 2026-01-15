@@ -38,8 +38,8 @@ You can register and pay for a domain name in the `.com` or `.me` zone on Wfolio
 
 | Domain zome | Registration (first year) | Extension |
 | ----------- | ------------------------- | --------- |
-| `.com`      | $19.90                    | $28.90    |
-| `.me`       | $19.90                    | $28.90    |
+| `.com`      | $19.90                    | $29.90    |
+| `.me`       | $19.90                    | $39.90    |
 
 ### How to register <a href="#how-to-register" id="how-to-register"></a>
 
