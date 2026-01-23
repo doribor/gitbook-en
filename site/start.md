@@ -7,8 +7,8 @@ noIndex: true
 
 Explore websites made on Wfolio:
 
-{% content-ref url="examples.md" %}
-[examples.md](examples.md)
+{% content-ref url="/broken/pages/-LyY8Q9yobayPTnRSpHZ" %}
+[Broken link](/broken/pages/-LyY8Q9yobayPTnRSpHZ)
 {% endcontent-ref %}
 
 Manage pages and blocks:

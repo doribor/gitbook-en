@@ -45,7 +45,7 @@
 ## WEBSITE BUILDER <a href="#site" id="site"></a>
 
 * [Website start](site/start.md)
-* [Site examples](site/examples.md)
+* [Site examples](https://website.wfolio.pro/examples)
 * [Pages and menu](site/pages/README.md)
   * [How to build a website](site/content/easy-start.md)
   * [FAQ: Website creation](site/pages/faq.md)
