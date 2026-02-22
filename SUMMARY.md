@@ -209,7 +209,7 @@
 ## Links
 
 * [Wfolio control panel](https://wfolio.com/my/site)
-* [Telegram support chat](https://t.me/wfoliosupportbot)
+* [Telegram support chat](https://t.me/wfoliobot)
 
 ## Check lists <a href="#checklist" id="checklist"></a>
 
