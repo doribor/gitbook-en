@@ -69,7 +69,12 @@ Add or edit two records:
 | А    | **@**        | **103.137.248.164** | 3600 |
 | А    | **www**      | **103.137.248.164** | 3600 |
 
+### USA servers
 
+| Type | Name (Host)  | Value             | TTL  |
+| ---- | ------------ | ----------------- | ---- |
+| А    | **@**        | **45.83.140.234** | 3600 |
+| А    | **www**      | **45.83.140.234** | 3600 |
 
 To make your website function on servers in Kazakhstan or in Belarus, add the following domain records.
 
