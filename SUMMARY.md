@@ -27,6 +27,7 @@
   * [Gallery protection](gallery/projects/protect.md)
   * [How to create a gallery template](gallery/projects/template.md)
 * [Gallery design and sharing](gallery/share/README.md)
+  * [Face Recognition](gallery/share/face-recognition.md)
   * [Downloading files from a gallery](gallery/share/download.md)
   * [Videos in galleries](gallery/share/videos.md)
   * [Gallery cover](gallery/share/cover.md)
